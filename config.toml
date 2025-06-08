@@ -1,6 +1,6 @@
 baseURL = 'https://mnovotny.xyz/'
 languageCode = 'en-us'
-title = 'Marek's personal webpage'
+title = "Marek's personal webpage"
 author = 'Marek Novotný'
 copyright = '© Marek Novotný, 2025'
 
