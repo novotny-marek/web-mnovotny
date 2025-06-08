@@ -1,3 +1,8 @@
++++
+title = 'Home'
+menu = 'main'
++++
+
 # Hi I'm Marek Novotný
 
 I am a undergraduate social geography student at Charles University in Prague, 
