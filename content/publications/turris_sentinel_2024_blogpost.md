@@ -5,7 +5,7 @@ date = '2025-05-16'
 
 # Turris Sentinel - What has 2024 brought blogpost
 
-**Date:** - May 16, 2025
+**Date:** May 16, 2025
 
 **Language:** Czech
 

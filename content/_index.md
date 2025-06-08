@@ -5,7 +5,7 @@ menu = 'main'
 
 # Hi I'm Marek Novotný
 
-I am a undergraduate social geography student at Charles University in Prague, 
+I am an undergraduate social geography student at Charles University in Prague, 
 Czechia.
 
 I work at CZ NIC z.s.p.o., the Czech domain registrar, where I am part of 
