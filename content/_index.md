@@ -1,4 +1,4 @@
-# Marek Novotný
+# Hi I'm Marek Novotný
 
 I am a social (human) geography student at Charles University in Prague.
 I am interested in open science and open-source technologies. I have 
