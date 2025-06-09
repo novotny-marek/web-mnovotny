@@ -1,6 +1,6 @@
 # Personal website
 
-This repository serves my [personal webpage](mnovotny.xyz).
+This repository serves my [personal webpage](https://mnovotny.xyz).
 
 ## Acknowledgements
 
