@@ -24,3 +24,5 @@ analysis.
 - databases - PostgreSQL, Redis
 - Linux administration - Debian, Arch, OpenWrt
 - Urbanism
+
+📄 [Take a look at my CV](/cv.pdf) -- PDF *(Updated: June 2025)*
