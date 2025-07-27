@@ -23,4 +23,4 @@ influence social interactions, walkability, and neighborhood vitality.
 
 ## Paper
 
-Read the full paper [here](https://blog.nic.cz/2025/05/16/turris-sentinel-co-prinesl-rok-2024/).
+Read the full paper [here](https://www.sciencedirect.com/science/article/pii/S2352711025002092).
