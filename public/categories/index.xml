@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marek&#39;s personal webpage</title>
-    <link>https://mnovotny.xyz/categories/</link>
+    <link>https://mnovotny.net/categories/</link>
     <description>Recent content in Categories on Marek&#39;s personal webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© Marek Novotný, 2025</copyright><atom:link href="https://mnovotny.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Marek Novotný, 2025</copyright>
+    <atom:link href="https://mnovotny.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

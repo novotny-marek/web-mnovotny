@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mnovotny.xyz/</loc>
+    <loc>https://mnovotny.net/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnovotny.net/publications/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnovotny.net/publications/streetscape/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnovotny.net/publications/turris_sentinel_2024_blogpost/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mnovotny.xyz/publications/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mnovotny.xyz/publications/turris_sentinel_2024_blogpost/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mnovotny.xyz/talks/</loc>
+    <loc>https://mnovotny.net/talks/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mnovotny.xyz/talks/turris_sentinel_2024_talk/</loc>
+    <loc>https://mnovotny.net/talks/turris_sentinel_2024_talk/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mnovotny.xyz/categories/</loc>
+    <loc>https://mnovotny.net/categories/</loc>
   </url><url>
-    <loc>https://mnovotny.xyz/tags/</loc>
+    <loc>https://mnovotny.net/tags/</loc>
   </url>
 </urlset>
