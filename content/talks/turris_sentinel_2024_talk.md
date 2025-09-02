@@ -1,6 +1,15 @@
 +++
-title = 'Turris Sentinel - What has 2024 brought (presentation)'
+title = 'Turris Sentinel - What has 2024 brought'
 date = 2025-03-15
+description = 'Presentation about Turris Sentinel project findings from 2024 at Installfest Prague'
+tags = ['turris', 'security', 'research', 'networking', 'presentation']
+categories = ['talk']
+venue = 'Installfest'
+location = 'Prague, Czech Republic'
+event_date = 2025-03-15
+url_slides = ''
+url_video = 'https://www.youtube.com/watch?v=LGtb6xkzcOI'
+duration = '20 minutes'
 +++
 
 # Turris Sentinel - What has 2024 brought talk

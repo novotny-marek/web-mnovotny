@@ -1,6 +1,5 @@
 +++
 title = 'Home'
-menu = 'main'
 +++
 
 # Hi I'm Marek Novotný

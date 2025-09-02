@@ -1,4 +1,3 @@
 +++
 title = 'Talks'
-menu = 'main'
 +++

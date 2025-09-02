@@ -1,6 +1,13 @@
 +++
-title = 'Turris Sentinel - What has 2024 brought (blogpost)'
+title = 'Turris Sentinel - What has 2024 brought'
 date = '2025-05-16'
+description = 'First blogpost on CZ NIC employee blog about Turris Sentinel project findings from 2024'
+tags = ['turris', 'security', 'research', 'networking']
+categories = ['blogpost']
+authors = ['Marek Novotný']
+venue = 'CZ.NIC Blog'
+year = 2025
+url_pdf = 'https://blog.nic.cz/2025/05/16/turris-sentinel-co-prinesl-rok-2024/'
 +++
 
 # Turris Sentinel - What has 2024 brought blogpost

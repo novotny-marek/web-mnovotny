@@ -1,4 +1,3 @@
 +++
 title = 'Publications'
-menu = 'main'
 +++
