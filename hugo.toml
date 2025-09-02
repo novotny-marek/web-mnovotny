@@ -1,0 +1,24 @@
+baseURL = 'https://mnovotny.net/'
+languageCode = 'en-us'
+title = "Marek's personal webpage"
+author = 'Marek Novotný'
+copyright = '© Marek Novotný, 2025'
+
+theme = 'hugo-bearblog'
+
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[params]
+ description = "Personal webpage of Marek Novotný - undergraduate social geography student and software developer at CZ NIC"
+ title = "Marek Novotný"
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
