@@ -1,8 +1,0 @@
-baseURL = 'https://mnovotny.net/'
-languageCode = 'en-us'
-title = "Marek's personal webpage"
-author = 'Marek Novotný'
-copyright = '© Marek Novotný, 2025'
-
-
-theme = 'hugo-bearblog'

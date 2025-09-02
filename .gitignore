@@ -1,1 +1,4 @@
-.hugo_build.lock/public/
+# Hugo build artifacts
+.hugo_build.lock
+/public/
+/resources/_gen/
